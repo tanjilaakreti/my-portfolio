@@ -1,0 +1,68 @@
+body{
+	margin:0;
+	padding:0;
+	
+}
+h1{
+	font-size:60px;	
+	
+}
+h3{
+	color:purple;	
+	
+}
+
+
+#spani{
+	color:#E03D16;
+	font-size:70px;
+	
+}
+
+.display{
+	display:flex;
+	
+}
+.half-width{
+	width:50%;
+	padding:2%;
+}
+.text-btn{
+	text-decoration:none;	
+	background-image:linear-gradient(orange,tomato);
+	color:white;	
+	font-weight:700;
+	padding:10px 40px;
+	border-radius:20px;
+	
+}
+.top-banner{
+	background-image:url(images/top-banner.png);
+	background-repeat:no-repeat;
+}
+.dream-bg{
+	background-image:url(images/dream-bg.png);
+	background-repeat:no-repeat;
+	background-position:right;
+}	
+.experience-item{
+	width:40%;	
+	margin-left:5%;
+	padding-left:20px;
+	box-shadow:10px 10px 40px gray;
+	border-radius:10px;
+	border-left:7px solid royalblue;
+}
+.copy{
+	text-align:center;
+	margin-top:20px;
+}
+#jwd{
+	border-left:7px solid orangered;
+}	
+.exp-bg{
+	background-image:url(images/exp-bg.png);
+	background-repeat:no-repeat;
+	background-position:left;
+}
+	
